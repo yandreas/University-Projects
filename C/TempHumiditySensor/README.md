@@ -1,1 +1,1 @@
-Temperatur and humidity sensor
+Temperature and humidity sensor
