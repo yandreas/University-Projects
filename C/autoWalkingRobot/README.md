@@ -1,0 +1,1 @@
+Using IR- and LED-Sensors to prevent robot from bumping ino objects and changing its route.

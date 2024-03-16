@@ -1,0 +1,20 @@
+drop sequence PersonalIDZähler;
+drop sequence BIDZähler;
+drop sequence AIDZähler;
+drop sequence KIDZähler;
+
+drop table nimmt_auf;
+drop table liefert_aus;
+drop table bereitet_zu;
+drop table arbeitet;
+drop table bestehend_aus;
+drop table enthält;
+drop table Pizzen;
+drop table Zutaten;
+drop table Arbeitszeit;
+drop table Koch;
+drop table Lieferant;
+drop table Bestellnehmer;
+drop table Bestellung;
+drop table Mitarbeiter;
+drop table Kunden;
